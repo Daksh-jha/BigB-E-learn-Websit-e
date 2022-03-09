@@ -507,7 +507,7 @@ margin-right: 12px;
 	background-color: #ffffff;
 }
 
-.footer-col .infor ul>li>span:hover{
+.footer-col .infor a:hover{
 	color: #24262b;
 	background-color: #ffffff;
 }
